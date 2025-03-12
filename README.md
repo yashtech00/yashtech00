@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me: I'm Currently Working on Full Stack Web Development<br>I'm Currently Learning Next.js and exploring Web3
+💫 About Me: I'm a Full Stack Development<br>I'm Currently Building new projects and exploring Web3 or Go lang 
 
 
 # 💻 Tech Stack:
