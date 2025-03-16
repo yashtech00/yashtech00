@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me: I'm a Full Stack Development<br>I'm Currently Building new projects and exploring Web3 or Go lang 
+💫 About Me: I'm a Full Stack Development<br>I'm Currently Building new projects and Learning Go lang 
 
 
 # 💻 Tech Stack:
