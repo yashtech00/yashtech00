@@ -1,10 +1,10 @@
 # 💫 About Me:
 👋 Hi, I’m @yashtech00
-👀 I’m interested in Web 3.0
-🌱 I’m currently learning Full Stack Web Dev and C++ .
-💞️ I’m looking to collaborate on Web Apps, Hackathons ,Tech Events
-📫 Reach me https://www.linkedin.com/in/yashgtech00/
-😄 Pronouns: He/Him
+<br>👀 I’m interested in Web 3.0
+<br>🌱 I’m currently learning Full Stack Web Dev and C++ .
+<br>💞️ I’m looking to collaborate on Web Apps, Hackathons ,Tech Events
+<br>📫 Reach me https://www.linkedin.com/in/yashgtech00/
+<br>😄 Pronouns: He/Him
 
 
 # 💻 Tech Stack:
