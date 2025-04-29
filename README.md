@@ -1,5 +1,10 @@
 # 💫 About Me:
-💫 About Me: I'm a Full Stack Development<br>I'm Currently Building new projects and Learning Go lang 
+👋 Hi, I’m @yashtech00
+👀 I’m interested in Web 3.0
+🌱 I’m currently learning Full Stack Web Dev and C++ .
+💞️ I’m looking to collaborate on Web Apps, Hackathons ,Tech Events
+📫 Reach me https://www.linkedin.com/in/yashgtech00/
+😄 Pronouns: He/Him
 
 
 # 💻 Tech Stack:
