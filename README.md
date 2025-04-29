@@ -3,7 +3,7 @@
 <br>👀 I’m interested in Web 3.0
 <br>🌱 I’m currently learning Full Stack Web Dev and C++ .
 <br>💞️ I’m looking to collaborate on Web Apps, Hackathons ,Tech Events
-<br>📫 Reach me https://www.linkedin.com/in/yashg00tech/
+<br>📫 Reach me https://www.linkedin.com/in/yash00tech/
 <br>😄 Pronouns: He/Him
 
 
