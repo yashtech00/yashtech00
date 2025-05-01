@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @yashtech00
+👋 Hi, I’m Yash Gupta
 <br>👀 I’m interested in Web 3.0
 <br>🌱 I’m currently learning Full Stack Web Dev and Devops .
 <br>💞️ I’m looking to collaborate on Web Apps, Hackathons ,Tech Events
