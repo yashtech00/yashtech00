@@ -1,10 +1,21 @@
-# 💫 About Me:
-👋 Hi, I’m Yash Gupta
-<br>👀 I’m interested in Web 3.0
-<br>🌱 I’m currently learning Full Stack Web Dev and Devops .
-<br>💞️ I’m looking to collaborate on Web Apps, Hackathons ,Tech Events
-<br>📫 Reach me https://www.linkedin.com/in/yash00tech/
-<br>😄 Pronouns: He/Him
+## 💫 About Me
+
+Hi, I’m Yash Gupta 👋  
+
+Full-Stack Developer & Analyst at KPMG Advisory Services, building scalable, AI-driven digital products.
+
+I design and develop end-to-end applications using the MERN stack, with deep focus on performance engineering, clean system architecture, and production-ready deployments.
+
+Currently working at the intersection of:
+• Artificial Intelligence  
+• Cloud & DevOps  
+• Web3 Technologies  
+
+I enjoy transforming complex ideas into real, scalable software systems that drive measurable business impact.
+
+Always building. Always learning. Always optimizing.
+
+Let’s create something meaningful 🚀
 
 
 # 💻 Tech Stack:
