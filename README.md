@@ -7,6 +7,7 @@ Full-Stack Developer & Analyst at KPMG Advisory Services, building scalable, AI-
 I design and develop end-to-end applications using the MERN stack, with deep focus on performance engineering, clean system architecture, and production-ready deployments.
 
 Currently working at the intersection of:
+
 • Artificial Intelligence  
 • Cloud & DevOps  
 • Web3 Technologies  
