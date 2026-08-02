@@ -1,12 +1,12 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0f172a,100:14b8a6&text=Yash%20Gupta&fontColor=ffffff&fontSize=54&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Systems%20Builder%20%E2%80%A2%20Analyst&descAlignY=56&descSize=17&animation=fadeIn)
+<img width="100%" src="./assets/hero.svg" alt="Yash Gupta — AI-First Full-Stack Engineer" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=2DD4BF&center=true&vCenter=true&width=780&lines=I+build+AI-powered+products+that+scale.;Turning+complex+problems+into+clean+systems.;Full-stack+engineering+%2B+AI+%2B+cloud.;Always+building.+Always+learning.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2300&pause=700&color=2DD4BF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=900&height=55&lines=Building+products+with+AI+at+the+core.;RAG+%2B+OKF+%2B+Chatbots+%2B+Agentic+Workflows.;Designing+systems+for+scale%2C+reliability%2C+and+impact.;From+product+idea+to+production+architecture.)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=yashtech00&label=PROFILE+VIEWS&color=14b8a6&style=for-the-badge)](https://github.com/yashtech00)
 [![GitHub followers](https://img.shields.io/github/followers/yashtech00?label=FOLLOWERS&style=for-the-badge&color=0f172a&labelColor=111827)](https://github.com/yashtech00?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash00tech)
+[![LinkedIn](https://img.shields.io/badge/CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash00tech)
 
 </div>
 
@@ -17,28 +17,56 @@ name: Yash Gupta
 role: Full-Stack Developer & Analyst
 company: KPMG Advisory Services
 location: Gurugram, India
-focus: [AI Products, Scalable Web Systems, Cloud Architecture]
-mission: Build software that creates measurable real-world impact
+identity: AI-first product engineer and systems builder
+focus: [Applied AI, RAG, OKF, Chatbots, Distributed Architecture]
+mission: Turn complex real-world problems into intelligent, scalable products
 ```
 
-I design and build end-to-end digital products—from the first system diagram to production deployment. My work sits at the intersection of **full-stack engineering, applied AI, real-time systems, and cloud infrastructure**.
+I’m a **Full-Stack Developer and Analyst** who builds AI-powered products from idea to production. Most of the systems I work on today use AI as a real product capability—not as a decorative feature added at the end.
 
-- 🧠 Building AI-first products with **LLMs, RAG, LangChain, and LangGraph**
-- ⚡ Engineering scalable platforms with **Next.js, Node.js, PostgreSQL, Redis, and workers**
-- 🔄 Creating real-time experiences using **WebSockets, queues, and event-driven architecture**
-- ☁️ Shipping production-ready applications with **Docker and modern cloud platforms**
-- 🎯 Exploring system design, open source, DSA, and intelligent developer tools
+My work combines **product thinking, full-stack engineering, AI orchestration, and heavy system architecture**. I enjoy taking an ambiguous problem, designing the complete technical flow, building the experience, connecting the intelligence layer, and making the final system reliable under real usage.
 
-> I don’t just build features—I design systems that stay fast, reliable, and useful as they grow.
+> **My engineering sweet spot:** products where web platforms, domain knowledge, AI models, queues, data pipelines, and real-time experiences must work together as one dependable system.
 
-## What I’m building
+## What “building with AI” means in my work
 
-| Area | What excites me |
+| Capability | How I approach it |
 |:---|:---|
-| 🤖 **Applied AI** | RAG pipelines, AI agents, evaluation systems, intelligent automation |
-| 🏗️ **Product Engineering** | End-to-end SaaS platforms with thoughtful UX and strong architecture |
-| ⚙️ **Scale & Reliability** | Background jobs, caching, real-time communication, observability |
-| 🌍 **Impact** | Technology for education, skills, employability, and workforce mobility |
+| 🧠 **AI-first products** | I design AI into the core user journey, business rules, data flow, and feedback loop—not only into a chatbot window. |
+| 📚 **RAG systems** | I work across ingestion, document processing, chunking, embeddings, retrieval, reranking, grounded generation, citations, and evaluation. |
+| 🧩 **OKF integration** | I use structured knowledge and framework-driven logic to connect domain rules with intelligent retrieval and recommendations. |
+| 💬 **Intelligent chatbots** | I build contextual assistants with memory, role-aware responses, tools, guardrails, fallbacks, and domain-specific knowledge. |
+| 🔀 **AI orchestration** | I design multi-step workflows where models, databases, search, APIs, tools, and background workers collaborate reliably. |
+| 🏗️ **System architecture** | I plan services, queues, caching, rate limits, failure handling, WebSockets, data contracts, observability, and deployment boundaries. |
+| ⚡ **AI-assisted engineering** | I use AI throughout research, architecture, prototyping, implementation, testing, debugging, and documentation—while keeping engineering judgment in control. |
+
+<div align="center">
+
+<img width="100%" src="./assets/ai-architecture.svg" alt="Animated AI system architecture designed by Yash Gupta" />
+
+</div>
+
+## Systems I enjoy designing
+
+- **Knowledge intelligence:** PDF and document ingestion, semantic search, vector databases, grounded answers, and framework comparison
+- **AI evaluation:** structured scoring, quality checks, feedback generation, guardrails, and explainable recommendations
+- **Real-time platforms:** live sessions, Socket.IO, Redis adapters, room-level events, and high-concurrency interactions
+- **Background processing:** BullMQ workers, priority queues, retries, backpressure, scheduled jobs, and long-running AI workloads
+- **Scalable backends:** authentication, role-based access, REST APIs, Prisma, PostgreSQL, MongoDB, Redis, and service boundaries
+- **Production AI:** prompt versioning, token and latency control, caching, fallbacks, observability, rate limiting, and failure recovery
+- **Human-centered products:** clear UX for complex workflows across education, skills, workforce, assessment, and employability
+
+## My engineering loop
+
+```text
+01  Understand the real user and business problem
+02  Map the end-to-end product and data flow
+03  Design the architecture, boundaries, and failure paths
+04  Build the experience, services, and AI orchestration
+05  Ground responses with RAG, OKF, tools, and domain rules
+06  Evaluate quality, latency, cost, safety, and reliability
+07  Scale with workers, caching, observability, and automation
+```
 
 ## Tech constellation
 
@@ -48,27 +76,39 @@ I design and build end-to-end digital products—from the first system diagram t
 
 [![Languages](https://skillicons.dev/icons?i=ts,js,cpp,python&theme=dark)](https://skillicons.dev)
 
-### Frontend & mobile
+### Product interfaces
 
-[![Frontend](https://skillicons.dev/icons?i=nextjs,react,redux,sass,tailwind,html,css&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,sass,html,css&theme=dark)](https://skillicons.dev)
 
-### Backend, data & AI
+### Platforms and data
 
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,redis,supabase,firebase&theme=dark)](https://skillicons.dev)
 
-### Cloud & engineering tools
+### Cloud and engineering
 
 [![Tools](https://skillicons.dev/icons?i=docker,cloudflare,vercel,git,github,gitlab,npm,postman&theme=dark)](https://skillicons.dev)
 
 </div>
 
 <details>
-<summary><b>More tools I work with</b></summary>
+<summary><b>AI, architecture, and platform toolkit</b></summary>
 <br>
 
-`LangChain` · `LangGraph` · `RAG` · `LLMs` · `BullMQ` · `Socket.IO` · `Prisma` · `Neon` · `React Native` · `Expo` · `Framer Motion` · `Jira` · `Notion`
+`LLMs` · `RAG` · `OKF` · `LangChain` · `LangGraph` · `Vector Search` · `Prompt Engineering` · `AI Evaluation` · `Gemini` · `OpenAI` · `BullMQ` · `Socket.IO` · `Redis Pub/Sub` · `Prisma` · `Neon` · `Docker` · `React Native` · `Expo` · `Framer Motion`
 
 </details>
+
+## Current direction
+
+```ts
+const yash = {
+  building: "AI-native products with strong engineering foundations",
+  designing: "scalable architectures for data-heavy and real-time systems",
+  exploring: ["agentic workflows", "AI evaluation", "developer tools", "open source"],
+  improving: ["system design", "DSA in C++", "Python", "cloud-native engineering"],
+  principle: "Useful AI needs reliable software around it."
+};
+```
 
 ## GitHub pulse
 
@@ -83,21 +123,33 @@ I design and build end-to-end digital products—from the first system diagram t
 
 </div>
 
+## Contribution stream
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashtech00/yashtech00/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashtech00/yashtech00/output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="Animated contribution snake" src="https://raw.githubusercontent.com/yashtech00/yashtech00/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
 ## Engineering philosophy
 
 ```text
-Understand the problem deeply.
-Design the simplest system that can grow.
-Measure what matters.
-Automate what repeats.
-Keep learning in public.
+Make the problem clear before making the solution clever.
+Treat AI output as something to evaluate, not something to trust blindly.
+Design failure paths before traffic finds them.
+Automate repetition, observe production, and keep architecture understandable.
+Build software that remains useful after the demo ends.
 ```
 
 <div align="center">
 
 ### Let’s build something meaningful.
 
-If you’re working on AI products, scalable platforms, developer tools, or technology with real-world impact, I’d love to connect.
+I’m always interested in AI products, scalable platforms, developer tools, open source, and technology with measurable real-world impact.
 
 [![GitHub](https://img.shields.io/badge/GitHub-yashtech00-181717?style=for-the-badge&logo=github)](https://github.com/yashtech00)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yash_Gupta-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yash00tech)
@@ -105,4 +157,3 @@ If you’re working on AI products, scalable platforms, developer tools, or tech
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:14b8a6,55:0f172a,100:020617)
 
 </div>
-
