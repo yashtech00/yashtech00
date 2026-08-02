@@ -42,7 +42,7 @@ My work combines **product thinking, full-stack engineering, AI orchestration, a
 
 <div align="center">
 
-<img width="100%" src="./assets/ai-architecture.svg" alt="Animated AI system architecture designed by Yash Gupta" />
+<img width="100%" src="./ai-architecture.svg" alt="Animated AI system architecture designed by Yash Gupta" />
 
 </div>
 
