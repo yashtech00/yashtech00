@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./assets/hero.svg" alt="Yash Gupta — AI-First Full-Stack Engineer" />
+<img width="100%" src="./hero.svg" alt="Yash Gupta — AI-First Full-Stack Engineer" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2300&pause=700&color=2DD4BF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=900&height=55&lines=Building+products+with+AI+at+the+core.;RAG+%2B+OKF+%2B+Chatbots+%2B+Agentic+Workflows.;Designing+systems+for+scale%2C+reliability%2C+and+impact.;From+product+idea+to+production+architecture.)](https://git.io/typing-svg)
 
